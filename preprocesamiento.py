@@ -13,3 +13,5 @@ def normalizar(df):
 
 def codificar(df):
     return pd.get_dummies(df)
+
+# cambio en la rama feature
